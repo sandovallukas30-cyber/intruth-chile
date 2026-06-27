@@ -1,0 +1,27 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node (por si acaso)
+node_modules/
+npm-debug.log
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Archivos viejos en raíz (reemplazados por src/)
+/background.js
+/offscreen/
+/popup/
+/scripts/
+
+# Keys y secretos (nunca commitear)
+*.env
+.env*
+secrets.json
