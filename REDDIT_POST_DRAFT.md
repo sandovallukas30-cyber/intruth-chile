@@ -50,7 +50,7 @@ Sé que pedir 3 cuentas de servicios externos es fricción. Por eso necesito fee
 
 **GitHub (instalación manual por ahora):**
 
-[enlace al repo — pegar aquí al publicar]
+https://github.com/sandovallukas30-cyber/intruth-chile
 
 Instrucciones completas de instalación en el README. No está en la Chrome Web Store todavía, se instala en "modo desarrollador" de Chrome (tarda 2 minutos, el README explica paso a paso).
 
@@ -84,4 +84,4 @@ Cualquier comentario sirve. Si alguien quiere probarlo y reportar bugs, también
 - **Mejor horario para publicar en r/chile:** lunes a jueves, entre 19:00 y 22:00 hrs Chile
 - **Agrega capturas de pantalla** del panel en acción — los posts con imagen tienen mucho más engagement
 - **Si hay un debate próximo** (elecciones, cadena nacional, etc.), publicar antes del evento le da contexto perfecto
-- Cuando tengas el repo en GitHub, reemplaza "[enlace al repo — pegar aquí al publicar]" con la URL real
+- Cuando tengas el repo en GitHub, reemplaza "https://github.com/sandovallukas30-cyber/intruth-chile" con la URL real

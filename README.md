@@ -32,7 +32,7 @@ Todo queda en un panel flotante y draggable, sin salir del video.
 
 ## Pantallazos
 
-*(próximamente — en cuanto tenga capturas del panel en acción)*
+*(próximamente)*
 
 ---
 
