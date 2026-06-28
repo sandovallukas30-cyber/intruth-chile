@@ -21,6 +21,9 @@ npm-debug.log
 /popup/
 /scripts/
 
+# Borradores internos
+REDDIT_POST_DRAFT.md
+
 # Keys y secretos (nunca commitear)
 *.env
 .env*
